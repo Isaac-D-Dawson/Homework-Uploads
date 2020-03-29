@@ -96,3 +96,4 @@ print(acronym(pre_format("I hope it's not an issue?"))) #Returns iHinaI
 #Test to see how it handles an empty string.
 print(acronym(pre_format("")))          #Returns an error, but won't choke.
 #Initially caused problems for the next step down, so I coded in a return error and a "None" to prevent the outer functions barfing. Wrote it into both funcs, just in case.
+    
