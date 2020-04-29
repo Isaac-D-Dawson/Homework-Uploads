@@ -6,7 +6,7 @@
 
 # The mission was taken from Python CCPS 109 Fall 2018. It is taught for Ryerson Chang School of Continuing Education by Ilkka Kokkarinen
 
-afrom typing import Iterable
+from typing import Iterable
 def is_ascending(items: Iterable[int]) -> bool:
     
     output = True
