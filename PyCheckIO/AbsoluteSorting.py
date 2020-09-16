@@ -25,8 +25,8 @@ def checkio(numbers_array: tuple) -> list:
     #Sort lambda adapted from code in the online python docs:
     #https://docs.python.org/3/howto/sorting.html
     
-    print(inval)
-    return(inval)
+    # print(inval)
+    return inval
     
 # #These "asserts" using only for self-checking and not necessary for auto-testing
 # if __name__ == '__main__':
